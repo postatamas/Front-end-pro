@@ -1,0 +1,51 @@
+body{
+    text-align: justify;
+    background-color: aqua;
+    margin: auto;
+}
+
+header{
+    background-color: green;
+    height: 100px;
+    text-align: center;
+    background-image: url("./media/Kina.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+.tablazat{
+    border-style: double black;
+}
+
+#lista{
+    background-color: yellow;
+    text-align: center;
+    list-style-type: none;
+    padding: 5px;
+    margin: 5px;
+}
+
+.tablazat{
+    width: 300px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    font-weight: bold;
+}
+
+.jobb{
+    text-align: center;
+    width: 120px;
+}
+
+#elso{
+    background-color: rgb(127, 130, 217);
+}
+#masodik{
+    background-color: rgb(197, 90, 165);
+}
+#harmadik{
+    background-color: rgb(151, 67, 67);
+}
+#negyedik{
+    background-color: rgb(58, 195, 143);
+}
