@@ -1,4 +1,5 @@
 body{
+    width: 1000px;
     text-align: justify;
     background-color: aqua;
     margin: auto;
@@ -11,6 +12,12 @@ header{
     background-image: url("./media/Kina.jpg");
     background-repeat: no-repeat;
     background-position: right top;
+}
+
+#szöveg{
+    text-align: center;
+    background-color: azure;
+    text-align: justify;
 }
 
 .tablazat{
