@@ -9,12 +9,11 @@ header{
     background-color: green;
     height: 100px;
     text-align: center;
-    background-image: url("./media/Kina.jpg");
-    background-repeat: no-repeat;
-    background-position: right top;
+    
 }
 
 #szöveg{
+    width: 700px;
     text-align: center;
     background-color: azure;
     text-align: justify;
@@ -27,21 +26,25 @@ header{
 #lista{
     background-color: yellow;
     text-align: center;
-    list-style-type: none;
-    padding: 5px;
-    margin: 5px;
+    list-style-type: upper-alpha;
+    padding: 15px;
+    margin: 15px;
 }
 
 .tablazat{
     width: 300px;
     margin: 0 auto;
-    border-collapse: collapse;
-    font-weight: bold;
+    border-style: double;
+}
+
+td{
+    border: black;
 }
 
 .jobb{
     text-align: center;
     width: 120px;
+    border: black;
 }
 
 #elso{
